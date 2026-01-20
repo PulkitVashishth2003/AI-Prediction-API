@@ -8,3 +8,6 @@ This is a single-file production-style FastAPI app that:
 • Exposes /predict endpoint
 • Accepts JSON input
 • Returns clear prediction
+
+Worked by 
+**Pulkit Vashishth**
