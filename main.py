@@ -21,7 +21,6 @@ class CandidateInput(BaseModel):
 def health_check():
     return {"status": "API is running successfully"}
 
-
 # Prediction endpoint
 @app.post("/predict")
 def predict_selection(candidate: CandidateInput):
